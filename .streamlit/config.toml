@@ -1,6 +1,6 @@
 [theme]
 primaryColor = "#000000" #cor dos botoes,slides e elementos
-backgroundColor = "##01258F" #cor de fundo do corpo principal
-secondaryBackgroundColor = "#396bff" #cor de fundo da barra
+backgroundColor = "#01258F" #cor de fundo do corpo principal
+secondaryBackgroundColor = "##023BE6" #cor de fundo da barra
 textColor = "#000000"
 font = "sans serif"
